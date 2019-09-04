@@ -1,0 +1,86 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "title": "MeeyeIconPack",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true,
+                    "markdown": "MeeGo style icons with refreshed, more modern looks."
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://github.com/WinnieTheKing/beta/master/assets/Screenshots/screenshots-1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://github.com/WinnieTheKing/beta/master/assets/Screenshots/screenshots-2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://github.com/WinnieTheKing/beta/master/assets/Screenshots/screenshots-3.png"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "MeeGo style icons with refreshed, more modern looks.<br/> \r\n        The unique adorable squircle shape crafted by original MeeGo designers.<br/> \r\n\tThe clean and unified style crafted on vectors. <br/> \r\n<b>Features</b><br/> \r\n\t- Update guaranteed, regular updates <br/>\r\n\t- Unique squircle shape icons from MeeGo <br/> \r\n\t- High resolution icons 192x192 <br/> \r\n\t- Hand crafted icons from our professional designers <br/> \r\n\t- Send icon requests on Telegram<br/> \r\n<b>Be Aware</b><br/> \r\n\t\tThis is just an icon pack, you will need a Theming Engine(such as \"SnowBoard\") to be able to apply it to your home screen.<br/>\r\n\t<br/>\r\n\tHow to install SnowBoard?<br/> \r\n\thttps://kubadownload.com/news/snowboard-ios-theming <br/> \r\n<b>Our Designers</b><br/> \r\n\tClyde Stevens Henry, icons and resources contribution.<br/> \r\n\tDospy-\u68a6\u5f71\u51b3\u5e7b, icons and resources contribution.<br/> \r\n\tJackwine, icons and resources contribution.<br/> \r\n\tLCOOOOD, icons and resources contribution.<br/> \r\n\tEric Kwok, icons and resources contribution.<br/> \r\n\tSilen Chan, icons contribution, website design and development.<br/> \r\n\tYeyeBBC, author.<br/> \r\n<b>Copy Right</b><br/> \r\n\tAll the icons inside Meeye apk file are under Creative Commons 4.0 BY NC ND License. <br/> \r\n\tFor details visit https://creativecommons.org/licenses/by-nc-nd/4.0/",
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "3.9",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "09-04-2019",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "text": "antoniacrespoa2 <lealeafdesign@gmail.com>",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        }
+    ],
+    "tintColor": "#0657bb",
+    "headerImage": "https://github.com/WinnieTheKing/beta/master/assets/Banners/MeeyeIcon.png"
+}

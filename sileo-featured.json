@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://github.com/WinnieTheKing/beta/master/assets/Banners/MeeyeIcon.png",
+        "title": "Meeye Icon Pack",
+        "package": "com.yeyebbc.meeye",
+        "hideShadow": false
+    }
+  ]
+}
