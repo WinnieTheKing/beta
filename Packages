@@ -59,10 +59,10 @@ Architecture: iphoneos-arm
 Maintainer: Winnie <kansei.ri@outlook.com>
 Depends: firmware (>= 7.0), net.dodtweaks.ithemer | com.spark.snowboard | com.anemonetheming.anemone
 Filename: ./debians/com.yeyebbc.meeye_5.6_iphoneos-arm.deb
-Size: 65912296
-MD5sum: 2e1bfc4723653ea5ff833a6cb29cf2ee
-SHA1: ca8b4daf7de96739d2df828873e3495dbd2359e6
-SHA256: 0f737a82671348b3e1e210b0ce3be486a958c45e64defd8706f87b5a12137a97
+Size: 65875364
+MD5sum: 188b6bae699533167e87d08affd4ec08
+SHA1: 9632adb73ea723bf8ddc91ad7e68097506085cf7
+SHA256: 56616b29e87860e677cc0a61bd76a9fa283d487edd0c04c07527fdae0e4d707c
 Section: Theme
 Priority: optional
 Description: MeeGo style icons with refreshed, more modern looks.
